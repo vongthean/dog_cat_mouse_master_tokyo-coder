@@ -1,0 +1,3 @@
+function cat(){
+	alert("cat");
+}
